@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there,THIS IS PRASHANT HERE 👋
 
-<!--
-**prashantkodlekere/prashantkodlekere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...WEB DEVELOPMENT
+
+- 🌱 I’m currently learning ...  HTML,CSS,JS,ANDROID STUDIO
+
+- 💬 Ask me about ... MySQL(Database),C,,Python,JAVA BASICS
+
+- 📫 How to reach me: ...[Mail-Me] [prashantkodlekere3@gmail.com]
+
+- [Insta] [https://www.instagram.com/singer__prashant/]
+
+- ⚡ Fun fact: ... Singer
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=uvyuva&show_icons=true&hide_border=true" />
+
+</details>
